@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>template02</name>
+	<creationDate>2016-05-21</creationDate>
+	<author>Ryan Yu</author>
+	<authorEmail>a05151988@etc.org.tw</authorEmail>
+	<authorUrl>http://www.etcswtest.org.tw</authorUrl>
+	<copyright>ETCSWTEST</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.0</version>
+	<description>My Template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+		<folder>fonts</folder>
+		<folder>code</folder>
+		<folder>html</folder>
+	</files>
+	<positions>
+		<position>head</position>
+		<position>menu</position>
+		<position>login</position>
+		<position>mainbody-top</position>
+		<position>marquee</position>
+		<position>breadcrumbs</position>
+		<position>counter-today</position>
+		<position>counter</position>
+		<position>search</position>
+		<position>message</position>
+		<position>mainbody-left</position>
+		<position>mainbody-center</position>
+		<position>mainbody-right</position>
+		<position>footer-left</position>
+		<position>footer-right</position>
+	</positions>
+</extension>
